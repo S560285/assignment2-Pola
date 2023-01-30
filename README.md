@@ -12,7 +12,11 @@ Pro Kabaddi League is my favorite sports team. The Pro Kabaddi League (PKL) is t
 1. Monu Goyat
 2. Siddharth Sirish Desai
 3. Rajnish
-
+  - Patna Pirates
+  - U Mumba
+  - Bengaluru Bulls
+  - Bengal Warriors 
+  - Dabang Delhi
 
 
 
