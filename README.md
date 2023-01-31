@@ -27,7 +27,17 @@ Pro Kabaddi League is my favorite sports team. The Pro Kabaddi League (PKL) is t
  | America | America is best country in the world because most of the buatyful places avilable in usa such as parks, museum, NASA etc.. | 12 days |
  | China | To see great wall of china | 15 day |
 | London | Recommanded  places in London such as Birmingham, London bridge | 5 days |
-| Nephol | Recommanded places in Nephol temples | 10 days |  
+| Nephol | Recommanded places in Nephol temples | 10 days | 
+
+----
+# Quotes
+ > Never put off till tomorrow what you can do the day after tomorrow just as well *MARK TWAIN*
+
+ > Whatever you do, always give 100% unless you're donating blood *BILL MURRAY*
+
+
+
+
 
 
 
